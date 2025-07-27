@@ -371,3 +371,62 @@ form button:hover {
   font-size: 0.9rem;
   color: #888;
 }
+
+/* Responsividade geral */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+  width: 100%;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  word-break: break-word;
+  overflow-x: auto;
+}
+
+th, td {
+  padding: 0.8rem;
+  text-align: center;
+  font-size: 0.95rem;
+}
+
+/* Responsivo para telas menores */
+@media (max-width: 768px) {
+  .resultados-header {
+    font-size: 1.5rem;
+    margin-top: 100px;
+  }
+
+  table, thead, tbody, th, td, tr {
+    display: block;
+    width: 100%;
+  }
+
+  thead {
+    display: none; /* Esconde cabeçalho no mobile */
+  }
+
+  tr {
+    margin-bottom: 1rem;
+    background-color: #1b1b1b;
+    border-radius: 10px;
+    padding: 1rem;
+  }
+
+  td {
+    text-align: left;
+    padding: 0.5rem;
+    position: relative;
+  }
+
+  td::before {
+    content: attr(data-label);
+    font-weight: bold;
+    display: block;
+    margin-bottom: 0.3rem;
+    color: #00ff88;
+  }
+}
