@@ -21,13 +21,19 @@ body {
 
 /* Cabeçalho */
 .header {
-  background-color: #1f1f1f;
+  background-color: #a8a8a8;
   padding: 1rem 0;
   border-bottom: 1px solid #333;
 }
 
 .header .logo {
-  height: 40px;
+  height: 60px;
+}
+
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .nav {
@@ -38,7 +44,7 @@ body {
 }
 
 .nav a {
-  color: #f0f0f0;
+  color: #000000;
   text-decoration: none;
   font-weight: 500;
   transition: color 0.3s;
@@ -163,8 +169,8 @@ form button:hover {
 
 /* Rodapé */
 .footer {
-  background-color: #1a1a1a;
-  color: #aaa;
+  background-color: #a8a8a8;
+  color: #000000;
   text-align: center;
   padding: 2rem 1rem;
   border-top: 1px solid #333;
@@ -238,10 +244,6 @@ form button:hover {
   font-size: 1.2rem;
   color: #ccc;
   margin-bottom: 2rem;
-}
-
-.logo {
-  height: 40px;
 }
 
 /* Ajuste no botão de WhatsApp com ícone */
