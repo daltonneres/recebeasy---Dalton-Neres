@@ -54,6 +54,14 @@ body {
   color: #00ff88;
 }
 
+.titulo-centralizado {
+  text-align: center;
+}
+
+.espacamento-topo {
+  margin-top: 3rem;
+}
+
 /* Hero Section */
 .hero {
   background: linear-gradient(90deg, #0f0f0f, #1a1a1a);
@@ -256,7 +264,7 @@ form button:hover {
 }
 
 #scrollTopBtn {
-  display: none; /* escondido por padrão */
+  display: none;
   position: fixed;
   bottom: 80px;
   right: 20px;
@@ -269,7 +277,7 @@ form button:hover {
   text-align: center;
   line-height: 50px;
   z-index: 999;
-  box-shadow: 0 0 10px rgba(0,0,0,0.6);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
   transition: transform 0.3s;
 }
 
@@ -329,15 +337,16 @@ form button:hover {
 /* Página Resultados */
 .resultados-header {
   text-align: center;
-  margin-top: 80px;  /* espaço entre o cabeçalho e o título */
+  margin-top: 80px;
+  /* espaço entre o cabeçalho e o título */
   margin-bottom: 2rem;
   color: #f0f0f0;
 }
 
 .resultados-container {
   max-width: 800px;
-  margin: 0 auto;
-  background-color: #1f1f1f; /* mesmo tom dos cards */
+  margin: 0 auto 3rem;
+  background-color: #1f1f1f;
   padding: 1.5rem 2rem;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 255, 136, 0.3);
@@ -371,7 +380,7 @@ form button:hover {
   text-align: center;
   margin-top: 3rem;
   font-size: 0.9rem;
-  color: #888;
+  color: #000000;
 }
 
 /* Responsividade geral */
@@ -389,7 +398,8 @@ table {
   overflow-x: auto;
 }
 
-th, td {
+th,
+td {
   padding: 0.8rem;
   text-align: center;
   font-size: 0.95rem;
@@ -402,13 +412,19 @@ th, td {
     margin-top: 100px;
   }
 
-  table, thead, tbody, th, td, tr {
+  table,
+  thead,
+  tbody,
+  th,
+  td,
+  tr {
     display: block;
     width: 100%;
   }
 
   thead {
-    display: none; /* Esconde cabeçalho no mobile */
+    display: none;
+    /* Esconde cabeçalho no mobile */
   }
 
   tr {
