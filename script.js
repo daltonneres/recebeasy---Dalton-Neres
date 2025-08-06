@@ -13,14 +13,14 @@ document.addEventListener("DOMContentLoaded", function () {
 const frases = [
   "Disparos automáticos via WhatsApp",
   "Reduza a inadimplência com automação",
-  "Cobrança inteligente, rápida e eficaz",
-  "Mensagens com nome, valor e vencimento",
-  "Tecnologia que recupera crédito de forma simples",
-  "Lembretes e avisos antes do vencimento",
-  "Conecte seu CRM e ganhe produtividade",
+  "Cobrança inteligente que não dá trabalho",
+  "Mensagens personalizadas com nome, valor e vencimento",
+  "Seu cliente nunca mais vai esquecer de pagar",
+  "Tecnologia que faz o cliente pagar sem estresse",
+  "Integre com seu CRM e deixe o sistema trabalhar por você",
   "Automatize sua régua de cobrança hoje mesmo",
-  "Venda mais com comunicação personalizada",
-  "Fale com seus clientes no canal que eles usam"
+  "Fale certo com a pessoa certa: venda mais",
+  "Fale com seus clientes no canal que eles realmente usam"
 ];
 
 let fraseAtual = 0;
