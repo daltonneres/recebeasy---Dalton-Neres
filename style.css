@@ -305,8 +305,8 @@ form button:hover {
 
 .hero-content h2 {
   font-size: 1.5rem;
-  height: 2.5rem;
-  margin-bottom: 2rem;
+  height: auto; /* deixa o tamanho se ajustar ao conteúdo */
+  margin-bottom: 3.5rem; /* aumenta o espaçamento para ~56px */
   color: #00ff88;
 }
 
