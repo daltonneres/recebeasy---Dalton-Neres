@@ -1,6 +1,6 @@
 # Site de Apresentação - Cobranças e Disparos WhatsApp
 
-Este repositório contém o site institucional de apresentação da plataforma de cobranças e disparos via WhatsApp. O site é direcionado para empresas interessadas em conhecer as funcionalidades, diferenciais, processos e resultados do sistema.
+Este repositório abriga o site institucional da plataforma de cobranças e disparos via WhatsApp, desenvolvido para atender empresas que buscam otimizar seus processos de comunicação e gestão financeira. O site apresenta de forma clara e objetiva as funcionalidades, diferenciais competitivos, fluxo operacional e os resultados comprovados da solução, oferecendo um canal eficiente para tomada de decisão.
 
 ## Funcionalidades do site
 
