@@ -36,7 +36,7 @@ function trocarFrase() {
   }, 500);
 }
 
-setInterval(trocarFrase, 2000); // Troca a cada 3 segundos
+setInterval(trocarFrase, 3000); // Troca a cada 3 segundos
 
 // Mostrar ou ocultar botão de voltar ao topo
 window.onscroll = function () {
