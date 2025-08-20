@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #121212;
+  background-color: #00000055;
   color: #f0f0f0;
   line-height: 1.6;
 }
@@ -21,7 +21,7 @@ body {
 
 /* Cabeçalho */
 .header {
-  background-color: #a8a8a8;
+  background-color: #ffffff;
   padding: 1rem 0;
   border-bottom: 1px solid #333;
 }
@@ -54,7 +54,7 @@ body {
 }
 
 .nav a:hover {
-  color: #00ff88;
+  color: #2F4592;
 }
 
 .titulo-centralizado {
@@ -84,7 +84,7 @@ body {
 }
 
 .btn {
-  background-color: #00ff88;
+  background-color: #2F4592;
   color: #000;
   padding: 0.8rem 1.5rem;
   border: none;
@@ -95,7 +95,7 @@ body {
 }
 
 .btn:hover {
-  background-color: #00cc6a;
+  background-color: #2F4592;
 }
 
 /* Seções */
@@ -122,7 +122,7 @@ section {
   background-color: #1e1e1e;
   margin: 0.5rem 0;
   padding: 1rem;
-  border-left: 5px solid #00ff88;
+  border-left: 5px solid #2F4592;
 }
 
 /* Ramos */
@@ -156,16 +156,16 @@ form {
 
 form input,
 form textarea {
-  background-color: #1f1f1f;
+  background-color: #000000;
   color: #f0f0f0;
-  border: 1px solid #333;
+  border: 1px solid #000000;
   padding: 0.8rem;
   border-radius: 5px;
 }
 
 form button {
-  background-color: #00ff88;
-  color: #000;
+  background-color: #ffffff;
+  color: #12121288;
   padding: 0.8rem;
   border: none;
   font-weight: bold;
@@ -175,12 +175,12 @@ form button {
 }
 
 form button:hover {
-  background-color: #00cc6a;
+  background-color: #2F4592;
 }
 
 /* Rodapé */
 .footer {
-  background-color: #a8a8a8;
+  background-color: #ffffff;
   color: #000000;
   text-align: center;
   padding: 2rem 1rem;
@@ -190,7 +190,7 @@ form button:hover {
 .footer a {
   display: block;
   margin-top: 1rem;
-  color: #00ff88;
+  color: #2F4592;
   text-decoration: none;
 }
 
@@ -228,7 +228,7 @@ form button:hover {
 
 /* Voltar ao topo */
 .top-btn {
-  background-color: #333;
+  background-color: #000000;
   bottom: 80px;
   right: 20px;
 }
@@ -248,7 +248,7 @@ form button:hover {
 .center-text h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
-  color: #00ff88;
+  color: #2F4592;
 }
 
 .center-text p {
@@ -293,7 +293,7 @@ form button:hover {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(to right, #000, #111);
+  background: #1f1f1f;
   text-align: center;
   color: #fff;
   padding: 0 1rem;
@@ -308,11 +308,11 @@ form button:hover {
   font-size: 1.5rem;
   height: auto; /* deixa o tamanho se ajustar ao conteúdo */
   margin-bottom: 3.5rem; /* aumenta o espaçamento para ~56px */
-  color: #00ff88;
+  color: #2F4592;
 }
 
 .cta-button {
-  background-color: #00ff88;
+  background-color: #ffffff;
   color: #000;
   padding: 0.75rem 1.5rem;
   font-weight: bold;
@@ -322,7 +322,7 @@ form button:hover {
 }
 
 .cta-button:hover {
-  background-color: #00cc6f;
+  background-color: #2F4592;
 }
 
 .texto h1 {
@@ -333,7 +333,7 @@ form button:hover {
 
 #frase-rotativa {
   font-size: 1.5rem;
-  color: #00ff88;
+  color: #ffffff;
   transition: opacity 0.5s ease;
 }
 
@@ -349,10 +349,10 @@ form button:hover {
 .resultados-container {
   max-width: 800px;
   margin: 0 auto 3rem;
-  background-color: #1f1f1f;
+  background-color: #12121288;
   padding: 1.5rem 2rem;
   border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 255, 136, 0.3);
+  box-shadow: 0 0 10px rgba(47, 69, 146);
 }
 
 .resultados-table {
@@ -370,13 +370,13 @@ form button:hover {
 }
 
 .resultados-table th {
-  background-color: #00ff88;
-  color: #000;
+  background-color: #ffffff;
+  color: #12121288;
   font-weight: 600;
 }
 
 .resultados-table tr:nth-child(even) {
-  background-color: #2a2a2a;
+  background-color: #12121288;
 }
 
 .resultados-footer {
@@ -448,14 +448,14 @@ td {
     font-weight: bold;
     display: block;
     margin-bottom: 0.3rem;
-    color: #00ff88;
+    color: #2F4592;
   }
 }
 
 /* FAQ */
 .faq-item {
-  background-color: #1e1e1e;
-  border-left: 5px solid #00ff88;
+  background-color: #12121288;
+  border-left: 5px solid #2F4592;
   padding: 1.5rem;
   margin-bottom: 2rem;
   border-radius: 5px;
@@ -463,17 +463,17 @@ td {
 }
 
 .faq-item:hover {
-  background-color: #2a2a2a;
+  background-color: #12121288;
 }
 
 .faq-item h2 {
-  color: #00ff88;
+  color: #ffffff;
   margin-bottom: 0.5rem;
   font-size: 1.2rem;
 }
 
 .faq-item p {
-  color: #ccc;
+  color: #ffffff;
   line-height: 1.6;
 }
 
@@ -481,12 +481,12 @@ td {
 main.container h1 {
   text-align: center;
   font-size: 2.5rem;
-  color: #00ff88;
+  color: #ffffff;
   margin-bottom: 2rem;
 }
 
 main.container h2 {
-  color: #00ff88;
+  color: #ffffff;
   font-size: 1.5rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
@@ -494,7 +494,7 @@ main.container h2 {
 
 main.container p {
   margin-bottom: 1.2rem;
-  color: #e0e0e0;
+  color: #ffffff;
   line-height: 1.6;
 }
 
@@ -505,7 +505,7 @@ main.container ul {
 
 main.container ul li {
   margin-bottom: 0.7rem;
-  color: #cccccc;
+  color: #ffffff;
 }
 
 .resumo-site {
@@ -514,12 +514,12 @@ main.container ul li {
 
 .resumo-site .card h3 {
   margin-bottom: 0.5rem;
-  color: #00ff88;
+  color: #ffffff;
 }
 
 .resumo-site .card p {
   margin-bottom: 1rem;
-  color: #ccc;
+  color: #ffffff;
 }
 
 .card {
@@ -540,7 +540,7 @@ main.container ul li {
 
 .card .btn {
   margin-top: auto;
-  background-color: #00ff88;
+  background-color: #ffffff;
   color: #000;
   padding: 0.8rem 1.5rem;
   border: none;
@@ -552,5 +552,5 @@ main.container ul li {
 }
 
 .card .btn:hover {
-  background-color: #00cc6a;
+  background-color: #2F4592;
 }
