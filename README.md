@@ -1,37 +1,62 @@
-# Site de Apresentação - Cobranças e Disparos WhatsApp
+# 🌐 Recebeasy - Site Institucional  
 
-Este repositório abriga o site institucional da plataforma de cobranças e disparos via WhatsApp, desenvolvido para atender empresas que buscam otimizar seus processos de comunicação e gestão financeira. O site apresenta de forma clara e objetiva as funcionalidades, diferenciais competitivos, fluxo operacional e os resultados comprovados da solução, oferecendo um canal eficiente para tomada de decisão.
+## 📖 Sobre o Projeto  
 
-## Funcionalidades do site
+O **site institucional da Recebeasy** foi desenvolvido para apresentar a plataforma de **cobranças e disparos via WhatsApp**, oferecendo às empresas uma forma moderna de **otimizar comunicação e gestão financeira**.  
 
-- Página inicial com informações institucionais e resumo da solução
-- Seção detalhada de diferenciais e áreas de atuação
-- Explicação passo a passo de como funciona o sistema
-- Página de resultados com dados fictícios para demonstração
-- Formulário de contato e botões rápidos para WhatsApp
-- Design responsivo e alinhado com identidade visual moderna e escura
+O site apresenta a solução de forma clara e objetiva, destacando funcionalidades, diferenciais, fluxo operacional e resultados demonstrativos, proporcionando **um canal eficiente para tomada de decisão**.  
 
-## Como usar
+---
 
-1. Clone o repositório:
+## ✨ Principais Funcionalidades  
+
+✔️ **Página inicial com informações institucionais e resumo da solução**  
+✔️ **Seção de diferenciais e áreas de atuação**  
+✔️ **Explicação passo a passo de como funciona o sistema**  
+✔️ **Página de resultados com dados fictícios para demonstração**  
+✔️ **Formulário de contato e botões rápidos para WhatsApp**  
+✔️ **Design responsivo** – compatível com dispositivos móveis e desktop  
+
+---
+
+## 🛠️ Tecnologias Utilizadas  
+
+- **HTML5** – estrutura semântica e acessível.  
+- **CSS3** – layout moderno e responsivo.  
+- **JavaScript (Vanilla)** – interatividade básica para formulários e botões.  
+
+---
+
+## 🚀 Como Executar o Projeto  
+
+1. Clone este repositório:  
    ```bash
    git clone https://github.com/seuusuario/whatsapp-cobrancas-site.git
-Abra os arquivos HTML no navegador para visualizar o site.
 
-Para implementar funcionalidades dinâmicas, será necessário desenvolvimento adicional (backend, APIs, etc).
+Abra os arquivos HTML em qualquer navegador moderno.
 
-## Tecnologias usadas
+> Para implementar funcionalidades dinâmicas, será necessário desenvolvimento adicional (backend, APIs, etc).
 
-- HTML5
+---
 
-- CSS3 (arquivo style.css)
+## 🏢 Estrutura das Páginas
 
-- JavaScript (script.js para interatividade básica)
+- `index.html` → Página inicial com overview da plataforma e formulário de contato.  
+- `diferenciais.html` → Página com diferenciais, áreas de atuação e explicação passo a passo.  
+- `resultados.html` → Página de resultados com dados fictícios para demonstração.  
 
-## Licença
+---
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para detalhes.
+## 👨‍💻 Desenvolvedor
 
-## Contato
+Este projeto foi desenvolvido por **Dalton Neres**, **Full Stack Developer**, com foco em **criação de sites institucionais, aplicações web modernas e soluções acessíveis**.  
 
-Para dúvidas ou mais informações, entre em contato: seuemail@exemplo.com
+- 🔗 **GitHub:** [Dalton Neres](https://github.com/daltonneres)  
+- 🌍 **Portfólio:** [Dalton Neres - Portfólio](https://daltonneres.github.io/portfolio_neres/)  
+- 💼 **LinkedIn:** [Dalton José Neres](https://www.linkedin.com/in/dalton-josé-neres)  
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a **MIT License** – consulte o arquivo LICENSE para mais detalhes.
