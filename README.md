@@ -33,10 +33,8 @@ O site apresenta a solução de forma clara e objetiva, destacando funcionalidad
    ```bash
    git clone https://github.com/seuusuario/whatsapp-cobrancas-site.git
 
-Abra os arquivos HTML em qualquer navegador moderno.
-
-> Para implementar funcionalidades dinâmicas, será necessário desenvolvimento adicional (backend, APIs, etc).
-
+2. Abra os arquivos HTML em qualquer navegador moderno.
+3. 
 ---
 
 ## 🏢 Estrutura das Páginas
