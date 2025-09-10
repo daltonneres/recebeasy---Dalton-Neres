@@ -34,7 +34,7 @@ O site apresenta a solução de forma clara e objetiva, destacando funcionalidad
    git clone https://github.com/seuusuario/whatsapp-cobrancas-site.git
 
 2. Abra os arquivos HTML em qualquer navegador moderno.
-3. 
+   
 ---
 
 ## 🏢 Estrutura das Páginas
