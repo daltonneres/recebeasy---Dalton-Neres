@@ -50,7 +50,7 @@ O site apresenta a solução de forma clara e objetiva, destacando funcionalidad
 Este projeto foi desenvolvido por **Dalton Neres**, **Full Stack Developer**, com foco em **criação de sites institucionais, aplicações web modernas e soluções acessíveis**.  
 
 - 🔗 **GitHub:** [Dalton Neres](https://github.com/daltonneres)  
-- 🌍 **Portfólio:** [Dalton Neres - Portfólio](https://daltonneres.github.io/portfolio_neres/)  
+- 🌍 **Portfólio:** [Dalton Neres - Portfólio](https://daltonneres.github.io/potfolio_neres/)  
 - 💼 **LinkedIn:** [Dalton José Neres](https://www.linkedin.com/in/dalton-josé-neres)  
 
 ---
