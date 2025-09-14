@@ -31,7 +31,7 @@ O site apresenta a solução de forma clara e objetiva, destacando funcionalidad
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seuusuario/whatsapp-cobrancas-site.git
+   git clone https://github.com/daltonneres/recebeasy---Dalton-Neres.git
 
 2. Abra os arquivos HTML em qualquer navegador moderno.
    
